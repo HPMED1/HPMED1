@@ -8,8 +8,8 @@ Computer Science student in Egypt, mostly writing Python. I like building small,
 
 - **[SayLect](https://github.com/HPMED1/SayLect)** — Highlight any text on Windows, press a hotkey, hear it spoken. On-device, offline, 31 languages, GPU-accelerated via DirectML. My favorite project so far.
 - **[Rtib](https://github.com/HPMED1/Rtib)** — Local-first AI sorter/formatter for messy unstructured text using small local models via Ollama
-- Studying **Networking** and **CyberSecurity** in between semesters.
 - **[Pxl]()** — an AI harness that aims to be the next **OpenClaw\Hermes**
+- Studying **Networking** and **CyberSecurity** in between semesters.
 
 ### 🛠️ Tech I reach for
 
